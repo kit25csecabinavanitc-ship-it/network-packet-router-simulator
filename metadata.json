@@ -1,0 +1,6 @@
+{
+  "name": "Network Packet Router Simulator",
+  "description": "Interactive router network simulator featuring Bellman-Ford distance vector routing, negative cycle detection, Floyd-Warshall all-pairs shortest paths, routing tables, and real-time packet forwarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
